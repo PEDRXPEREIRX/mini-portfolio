@@ -47,9 +47,7 @@ body {
 }
 
 .cartao .conteudo {
-    background-color: grey;
     margin-top: 15px;
-    
 }
 
 .cartao .abas {
@@ -153,4 +151,9 @@ body {
     background: #ffffff20;
     backdrop-filter: blur(10px);
     border-radius: 10px;
+}
+
+.aba {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
