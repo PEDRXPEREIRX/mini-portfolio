@@ -1,5 +1,5 @@
 body {
-    background-image: url(../img/gif-fundo.gif);
+    background-image: url(../img/fundo-gif.gif);
     backdrop-filter: brightness(50%);   
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,11 +15,11 @@ body {
 }
 
 .cartao {
-    background: #ffffff10;
+    background-color: #02d08f20;
     backdrop-filter: blur(10px);
     width: 370px;
     border-radius: 50px;
-    border: 3px outset #e126d9;
+    border: 3px outset #02d08f;
     overflow: hidden;
 }
 
@@ -78,7 +78,7 @@ body {
 }
 
 .cartao .abas .aba:hover {
-    background-color: #414141;
+    background-color: #8b8b8b;
     
 }
 
@@ -145,12 +145,6 @@ body {
 
 .redes-sociais li a:hover {
     opacity: 0.7;
-}
-
-.cargo {
-    background: #ffffff20;
-    backdrop-filter: blur(10px);
-    border-radius: 10px;
 }
 
 .aba {
